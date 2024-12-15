@@ -21,7 +21,7 @@ Through a combined login and register page, users can sign up or log in to acces
 Add the corresponding images in the placeholders below by uploading the PNG files.
 
 ### Login and Register Page Screenshot
-![Login and Register Page Screenshot](path/to/login_register_screenshot.png "Login and Register Page")
+![Login and Register Page Screenshot](log_reg.png "Login and Register Page")
 
 ### Worker Panel Screenshot
 ![Worker Panel Screenshot](path/to/worker_panel_screenshot.png "Worker Panel")
