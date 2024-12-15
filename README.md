@@ -24,7 +24,9 @@ Add the corresponding images in the placeholders below by uploading the PNG file
 ![Login and Register Page Screenshot](log_reg.png "Login and Register Page")
 
 ### Worker Panel Screenshot
-![Worker Panel Screenshot](path/to/worker_panel_screenshot.png "Worker Panel")
+![Worker Panel Screenshot](employerMain.png "Worker Panel Main")
+![Worker Panel Screenshot](employerJob.pnh.png "Worker Panel Job")
+![Worker Panel Screenshot](employerSettings.png "Worker Panel Setttings")
 
 ### Employer Panel Screenshot
-![Employer Panel Screenshot](path/to/employer_panel_screenshot.png "Employer Panel")
+![Employer Panel Screenshot](workerMain.png "Employer Panel Main")
