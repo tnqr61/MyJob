@@ -18,7 +18,7 @@ Through a combined login and register page, users can sign up or log in to acces
 ---
 
 ## 📸 Screenshots
-Add the corresponding images in the placeholders below by uploading the PNG files.
+
 
 ### Login and Register Page Screenshot
 ![Login and Register Page Screenshot](log_reg.png "Login and Register Page")
